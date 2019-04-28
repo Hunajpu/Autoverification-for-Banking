@@ -1,0 +1,2 @@
+# Autoverification-for-Banking
+Desarrollar un protocolo que establezca una comunicación efectiva y segura entre BANORTE  y sus usuarios a través de correo electrónico, permitiendo a Banorte  filtrar los correos malignos del usuario por medio de la lectura de un código único que será enviado por ellos (acordado anteriormente con el usuario) para que el correo elimine/marque como spam aquellos que no corresponden según palabras clave como el nombre de las empresas, además de que el usuario verificará mediante este código, que es la institución la que emite el correo
